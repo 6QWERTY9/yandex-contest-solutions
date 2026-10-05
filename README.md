@@ -48,6 +48,7 @@
 * Сдача Спелеолога: `feat: solve yandex-cave-3d escape using 3D BFS`
 * Сдача Блох: `feat: solve yandex-fleas sum of paths via reverse BFS`
 * Уборка в конце недели: `chore: move solved tasks from weekly sprint to archive`
+* Шаблон алгоритма: `feat: add pure [algoritm name] algorithm template`
 
 ---
 
