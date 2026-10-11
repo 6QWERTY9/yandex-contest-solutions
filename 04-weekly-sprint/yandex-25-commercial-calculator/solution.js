@@ -9,7 +9,7 @@ const minHeap = (arr) => {
     const heap = arr;
 
     const size = () => heap.length;
-
+ 
     const swap = (i, j) => {
         /** 
             * эта фукция меня элементы списка местами
