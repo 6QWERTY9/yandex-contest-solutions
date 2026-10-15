@@ -1,4 +1,4 @@
-
+// Алгоритм сортировки куче
 function heapSort(arr) {
     /*
         @params {array[number]} arr - массив с числами
