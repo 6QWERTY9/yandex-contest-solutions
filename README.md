@@ -38,8 +38,8 @@
 
 ### 📂 04. Еженедельный спринт (`04-weekly-sprint`)
 *План штурма задач легкой/средней сложности на эту неделю.*
-- [ ] **yandex-38-room-area** — Площадь комнаты (Easy)
-- [ ] **yandex-88-branch-output** — Вывод веток (Easy)
+- [x] **yandex-38-room-area** — Площадь комнаты (Easy)
+- [x] **yandex-88-branch-output** — Вывод веток (Easy)
 - [ ] **yandex-89-avl-balanced** — АВЛ-сбалансированность (Easy)
 - [ ] **yandex-122-digital-nomad-joe** — Проблема цифрового кочевника Джо (Easy)
 - [ ] **yandex-450-report-restoration** — Восстановление отчётов (Easy)
