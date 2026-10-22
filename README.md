@@ -59,7 +59,7 @@
 - [x] **yandex-88-branch-output** — Вывод веток (Easy)
 - [x] **yandex-89-avl-balanced** — АВЛ-сбалансированность (Easy)
 - [ ] **yandex-122-digital-nomad-joe** — Проблема цифрового кочевника Джо (Easy)
-- [ ] **yandex-450-report-restoration** — Восстановление отчётов (Easy)
+- [x] **yandex-450-report-restoration** — Восстановление отчётов (Easy)
 
 ---
 
