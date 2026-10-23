@@ -58,7 +58,7 @@
 - [x] **yandex-38-room-area** — Площадь комнаты (Easy)
 - [x] **yandex-88-branch-output** — Вывод веток (Easy)
 - [x] **yandex-89-avl-balanced** — АВЛ-сбалансированность (Easy)
-- [ ] **yandex-619-to-town-for-fair** — В город на ярмарку (Easy)
+- [x] **yandex-619-to-town-for-fair** — В город на ярмарку (Easy)
 - [x] **yandex-450-report-restoration** — Восстановление отчётов (Easy)
 
 ---
