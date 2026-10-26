@@ -75,3 +75,4 @@ const buildNumberGraph = (n, edges, isOriented = false) => {
 
     return graph;
 }
+
