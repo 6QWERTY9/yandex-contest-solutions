@@ -62,7 +62,7 @@
 ### 📂 04. Еженедельный спринт (`04-weekly-sprint`)
 *План штурма задач легкой/средней сложности на эту неделю.*
 - [x] **yandex-647-broken-ring** — Разорванное кольцо (Easy)
-- [ ] **yandex-699-feudal-reform** — Феодальная реформа (Easy)
+- [x] **yandex-699-feudal-reform** — Феодальная реформа (Easy)
 - [ ] **yandex-700-ancestor** — Предок (Easy)
 - [ ] **yandex-8-connected-components** — Компоненты связности (Medium)
 - [ ] **yandex-9-cheating** — Списывание (Medium)
