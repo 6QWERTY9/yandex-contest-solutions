@@ -1,6 +1,6 @@
 // dfs - поиск в глубину
 
-// Базовый шаблон кода 
+// Базовый шаблон кода рекурсия 
 
 const runDfsTemplate = (N, graph, start) => {
     /**
@@ -47,4 +47,34 @@ const runDfsTemplate = (N, graph, start) => {
     }
 
     dfs(start)
+}
+
+
+// Базовый шаблон кода итерактивный
+
+const dfsIterative = (graph, startNode) => {
+    const visited = new Set()
+    const stack = [startNode];
+    const result = [];
+
+    while (stack.length > 0) {
+        const node = stack.pop();
+
+        if (!visited.has(node)) {
+            visited.add(node);
+            result.push(node);
+        }
+
+        const neighbors = graph[node] || [];
+
+        for (let i = neighbors.length - 1; i >= 0; i--) {
+            const neighbor = neighbors[i];
+
+            if (!visited.has(neighbor)) {
+                stack.push(neighbor);
+            }
+        }
+    }
+
+    return result;
 }
