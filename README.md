@@ -65,7 +65,7 @@
 - [x] **yandex-699-feudal-reform** — Феодальная реформа (Easy)
 - [x] **yandex-700-ancestor** — Предок (Easy)
 - [x] **yandex-8-connected-components** — Компоненты связности (Medium)
-- [ ] **yandex-9-cheating** — Списывание (Medium)
+- [x] **yandex-9-cheating** — Списывание (Medium)
 
 ---
 
