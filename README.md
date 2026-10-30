@@ -63,8 +63,8 @@
 *План штурма задач легкой/средней сложности на эту неделю.*
 - [x] **yandex-647-broken-ring** — Разорванное кольцо (Easy)
 - [x] **yandex-699-feudal-reform** — Феодальная реформа (Easy)
-- [ ] **yandex-700-ancestor** — Предок (Easy)
-- [ ] **yandex-8-connected-components** — Компоненты связности (Medium)
+- [x] **yandex-700-ancestor** — Предок (Easy)
+- [x] **yandex-8-connected-components** — Компоненты связности (Medium)
 - [ ] **yandex-9-cheating** — Списывание (Medium)
 
 ---
