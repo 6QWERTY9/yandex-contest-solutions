@@ -24,6 +24,12 @@
 - [x] **yandex-89-avl-balanced** — АВЛ-сбалансированность (Easy)
 - [x] **yandex-619-to-town-for-fair** — В город на ярмарку (Easy)
 - [x] **yandex-450-report-restoration** — Восстановление отчётов (Easy)
+- [x] **yandex-647-broken-ring** — Разорванное кольцо (Easy)
+- [x] **yandex-699-feudal-reform** — Феодальная реформа (Easy)
+- [x] **yandex-700-ancestor** — Предок (Easy)
+- [x] **yandex-8-connected-components** — Компоненты связности (Medium)
+- [x] **yandex-9-cheating** — Списывание (Medium)
+
 
 ### 📂 03. Кучи и Сортировки (`03-heaps-and-sorting`)
 *Изучение эффективных структур данных, двоичных деревьев и приоритетных очередей.*
@@ -61,11 +67,6 @@
 
 ### 📂 04. Еженедельный спринт (`04-weekly-sprint`)
 *План штурма задач легкой/средней сложности на эту неделю.*
-- [x] **yandex-647-broken-ring** — Разорванное кольцо (Easy)
-- [x] **yandex-699-feudal-reform** — Феодальная реформа (Easy)
-- [x] **yandex-700-ancestor** — Предок (Easy)
-- [x] **yandex-8-connected-components** — Компоненты связности (Medium)
-- [x] **yandex-9-cheating** — Списывание (Medium)
 
 ---
 
