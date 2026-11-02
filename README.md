@@ -68,7 +68,7 @@
 ### 📂 04. Еженедельный спринт (`04-weekly-sprint`)
 *План штурма задач легкой/средней сложности на эту неделю.*
 - [x] **yandex-11-cycle-finding** — Поиск цикла (Medium)
-- [ ] **yandex-41-landing-party** — Десант (Medium)
+- [x] **yandex-41-landing-party** — Десант (Medium)
 - [ ] **yandex-117-dungeon** — Подземелье (Medium)
 - [ ] **yandex-127-last-common-git-commit** — Последний общий коммит веток git (Medium)
 - [ ] **yandex-154-pallets** — Палеты (Medium)
