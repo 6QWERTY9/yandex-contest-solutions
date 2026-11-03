@@ -42,7 +42,7 @@ rl.on('line', (input) => {
     matrix.push(row)
     /*
     Пример ввода и вывода числа n, где -10^9 < n < 10^9:
-    const n = parseInt(input);
+    const n = parseInt(input);  
     console.log(n);
     */
 });
