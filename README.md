@@ -71,7 +71,7 @@
 - [x] **yandex-41-landing-party** — Десант (Medium)
 - [x] **yandex-117-dungeon** — Подземелье (Medium)
 - [x] **yandex-127-last-common-git-commit** — Последний общий коммит веток git (Medium)
-- [ ] **yandex-154-pallets** — Палеты (Medium)
+- [x] **yandex-154-pallets** — Палеты (Medium)
 ---
 
 ## 🎨 Стандарт коммитов (Conventional Commits)
