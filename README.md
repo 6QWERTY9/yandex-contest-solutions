@@ -72,7 +72,14 @@
 
 ### 📂 04. Еженедельный спринт (`04-weekly-sprint`)
 *План штурма задач легкой/средней сложности на эту неделю.*
-
+- [ ] **yandex-241-bypass** – Обход (Medium)
+- [ ] **yandex-258-put-on-shelves** – Расставляем по полочкам (Medium)
+- [ ] **yandex-287-managers** – Руководители (Medium)
+- [ ] **yandex-393-two-centers** – Два центра (Medium)
+- [ ] **yandex-410-king-leonid-on-a-tractor** – Царь Леонид на тракторе (Medium)
+- [ ] **yandex-602-create-cycles-2-0** – Создать циклы (2.0) (Medium)
+- [ ] **yandex-650-ancient-tunnels** – Древние тоннели (Medium)
+- [ ] **yandex-733-artifacts** – Артефакты (Medium)
 ---
 
 ## 🎨 Стандарт коммитов (Conventional Commits)
