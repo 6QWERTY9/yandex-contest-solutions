@@ -29,6 +29,11 @@
 - [x] **yandex-700-ancestor** — Предок (Easy)
 - [x] **yandex-8-connected-components** — Компоненты связности (Medium)
 - [x] **yandex-9-cheating** — Списывание (Medium)
+- [x] **yandex-11-cycle-finding** — Поиск цикла (Medium)
+- [x] **yandex-41-landing-party** — Десант (Medium)
+- [x] **yandex-117-dungeon** — Подземелье (Medium)
+- [x] **yandex-127-last-common-git-commit** — Последний общий коммит веток git (Medium)
+- [x] **yandex-154-pallets** — Палеты (Medium)
 
 
 ### 📂 03. Кучи и Сортировки (`03-heaps-and-sorting`)
@@ -67,11 +72,7 @@
 
 ### 📂 04. Еженедельный спринт (`04-weekly-sprint`)
 *План штурма задач легкой/средней сложности на эту неделю.*
-- [x] **yandex-11-cycle-finding** — Поиск цикла (Medium)
-- [x] **yandex-41-landing-party** — Десант (Medium)
-- [x] **yandex-117-dungeon** — Подземелье (Medium)
-- [x] **yandex-127-last-common-git-commit** — Последний общий коммит веток git (Medium)
-- [x] **yandex-154-pallets** — Палеты (Medium)
+
 ---
 
 ## 🎨 Стандарт коммитов (Conventional Commits)
