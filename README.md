@@ -72,8 +72,8 @@
 
 ### 📂 04. Еженедельный спринт (`04-weekly-sprint`)
 *План штурма задач легкой/средней сложности на эту неделю.*
-- [ ] **yandex-241-bypass** – Обход (Medium)
-- [ ] **yandex-258-put-on-shelves** – Расставляем по полочкам (Medium)
+- [x] **yandex-241-bypass** – Обход (Medium)
+- [x] **yandex-258-put-on-shelves** – Расставляем по полочкам (Medium)
 - [ ] **yandex-287-managers** – Руководители (Medium)
 - [ ] **yandex-393-two-centers** – Два центра (Medium)
 - [ ] **yandex-410-king-leonid-on-a-tractor** – Царь Леонид на тракторе (Medium)
