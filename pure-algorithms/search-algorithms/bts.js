@@ -188,4 +188,3 @@ const iterativeBst = () => {
     }
 }
 
-pure-algorithms/search-algorithms/bts.js
