@@ -34,7 +34,11 @@
 - [x] **yandex-117-dungeon** — Подземелье (Medium)
 - [x] **yandex-127-last-common-git-commit** — Последний общий коммит веток git (Medium)
 - [x] **yandex-154-pallets** — Палеты (Medium)
-
+- [x] **yandex-241-bypass** – Обход (Medium)
+- [x] **yandex-258-put-on-shelves** – Расставляем по полочкам (Medium)
+- [x] **yandex-287-managers** – Руководители (Medium)
+- [x] **yandex-393-two-centers** – Два центра (Medium)
+- [x] **yandex-602-create-cycles-2-0** – Создать циклы (2.0) (Medium)
 
 ### 📂 03. Кучи и Сортировки (`03-heaps-and-sorting`)
 *Изучение эффективных структур данных, двоичных деревьев и приоритетных очередей.*
@@ -72,14 +76,9 @@
 
 ### 📂 04. Еженедельный спринт (`04-weekly-sprint`)
 *План штурма задач легкой/средней сложности на эту неделю.*
-- [x] **yandex-241-bypass** – Обход (Medium)
-- [x] **yandex-258-put-on-shelves** – Расставляем по полочкам (Medium)
-- [x] **yandex-287-managers** – Руководители (Medium)
-- [x] **yandex-393-two-centers** – Два центра (Medium)
-- [ ] **yandex-410-king-leonid-on-a-tractor** – Царь Леонид на тракторе (Medium)
-- [ ] **yandex-602-create-cycles-2-0** – Создать циклы (2.0) (Medium)
-- [ ] **yandex-650-ancient-tunnels** – Древние тоннели (Medium)
-- [ ] **yandex-733-artifacts** – Артефакты (Medium)
+
+Неделя пет-проектов 
+
 ---
 
 ## 🎨 Стандарт коммитов (Conventional Commits)
