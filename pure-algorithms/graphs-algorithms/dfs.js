@@ -50,7 +50,7 @@ const runDfsTemplate = (N, graph, start) => {
 }
 
 
-// Базовый шаблон кода итеративный
+// Базовый шаблон кода итера тивный
 
 const dfsIterative = (graph, startNode) => {
     const visited = new Set()
