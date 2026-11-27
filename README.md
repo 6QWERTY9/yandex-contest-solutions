@@ -78,7 +78,7 @@
 *План штурма задач легкой/средней сложности на эту неделю.*
 
 - [x] **yandex-43-two-horses** — Два коня (Easy)
-- [ ] **yandex-44-numbers** — Числа (Easy)
+- [x] **yandex-44-numbers** — Числа (Easy)
 - [ ] **yandex-45-toy-maze** — Игрушечный лабиринт (Easy)
 - [ ] **yandex-640-chase** — Погоня (Easy)
 - [ ] **yandex-696-from-dead-end-to-dead-end** — Из тупика в тупик (Easy)
