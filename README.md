@@ -77,7 +77,7 @@
 ### 📂 04. Еженедельный спринт (`04-weekly-sprint`)
 *План штурма задач легкой/средней сложности на эту неделю.*
 
-- [ ] **yandex-43-two-horses** — Два коня (Easy)
+- [x] **yandex-43-two-horses** — Два коня (Easy)
 - [ ] **yandex-44-numbers** — Числа (Easy)
 - [ ] **yandex-45-toy-maze** — Игрушечный лабиринт (Easy)
 - [ ] **yandex-640-chase** — Погоня (Easy)
